@@ -1,4 +1,4 @@
-Hibernate with Spring spike.
+Spike - Hibernate with Spring.
 
 1. Run sql/stocks.sql to create database, table, and data.
 2. URL - /spike-hibernate/stocks/<stock-name>
